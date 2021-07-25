@@ -1,6 +1,8 @@
 # Sound Wave Visualizer
 An Unreal Engine 4 utility tool, allowing you to visualize sound waves in 3D. Easy to integrate and minimum dependencies.
 
+![Gif](1600348737376.gif)
+
 ## Features
 - Use any of the default 3D props or even upload your own.
 - Customiseable sound range, to achieve the visualization you want.
@@ -27,5 +29,3 @@ Next, we change the Z-length, or the height of the bar calculated above. This is
 - Navigate to Unreal Engine in the sidebar
 - Download Unreal Engine 4.25.3
 - Open the project
-
-![Gif](1600348737376.gif)
